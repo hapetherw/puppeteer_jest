@@ -1,0 +1,4 @@
+{
+    "selectInput": ".select-container > .select-display",
+    "dropDownOption": ".dropdown-options > .dropdown-option"
+}

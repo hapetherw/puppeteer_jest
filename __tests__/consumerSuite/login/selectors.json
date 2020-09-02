@@ -1,0 +1,9 @@
+{
+    "forgotPasswordAnchor": "div.auth-actions-container > div.main-content-wrapper > div.container-main-content >  a.auth-actions-forgot-password-anchor",
+    "alreadyStokedAnchor": "div.auth-actions-container > div.main-content-wrapper > div.container-main-content > .exist-account-text > a",
+    "emailInput": "#email",
+    "userMenu": ".layout-nav-bar .nav-bar-bottom > div:nth-child(1) > .popover-trigger",
+    "userMenuItemLogout": ".popover-container > div > div > .user-menu-item",
+    "passInput": "#password",
+    "signInButton": "div.auth-actions-container > div.main-content-wrapper > div.container-main-content .auth-actions-button"
+}

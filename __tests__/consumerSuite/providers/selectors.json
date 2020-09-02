@@ -1,0 +1,10 @@
+{
+    "providerActionOption": ".provider-action-select-wrapper div:nth-child(",
+    "providerActionPopup": ".provider-action-popup-container",
+    "additionPopupNameInput": ".provider-action-popup-container > .provider-action-popup-body > .provider-action-popup-input > input",
+    "additionPopupFirstNameInput": ".provider-action-popup-container > .provider-action-popup-body .provider-action-popup-first-name > input",
+    "additionPopupLastNameInput": ".provider-action-popup-container > .provider-action-popup-body .provider-action-popup-last-name > input",
+    "additionPopupEmailInput": ".provider-action-popup-container > .provider-action-popup-body > .provider-action-popup-email-wrapper > .provider-action-popup-email > input",
+    "additionPopupDragAndDrop": ".provider-action-popup-container .add-additional-documents > .upload-files > .drag-and-drop-container",
+    "additionPopupSubmitButton": ".provider-action-popup-container .action-button-container > .action-button"
+}

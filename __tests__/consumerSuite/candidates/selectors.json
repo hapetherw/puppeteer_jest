@@ -1,0 +1,4 @@
+{
+    "firstTalent": ".talents-list > li:nth-child(2)",
+    "firstTalentHire": ".talents-list > li:nth-child(2) .talent-btns .talent-action-button:nth-child(2)"
+}

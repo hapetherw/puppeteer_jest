@@ -1,0 +1,3 @@
+First Name *REQUIRED ,Last Name *REQUIRED,Email  *REQUIRED freelancer or main contact point e-mail ,"Title (What freelancer do they fill in the org (Design, Network admin, QA, SW Engineer, marketing consulting etc...)",Country ,City  ,Zip Code
+Dani,Smith,alex+damisnith@stoketalent.com,SW Engineer,Spain,Madrid,422954
+John,Bill,alex+johnbill@stoketalent.com,SW Engineer,Spain,barcelona,422964

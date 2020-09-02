@@ -1,0 +1,5 @@
+{
+    "setupSkipButton": "#setup-skip-button",
+    "freelancersSetupDragAndDrop": "#form-sections-container > div.section-container:nth-child(3) > div > div.files-uploader > div.drag-and-drop-container",
+    "formSectionSubmitButton": "#form-sections-container > button"
+}

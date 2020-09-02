@@ -1,0 +1,10 @@
+{
+    "budgetAction": ".page-header-action-button .button-content",
+    "grantBudgetButton": ".action-menu-items-container #new-job-action-menu-item-num-1",
+    "grantBudgetDepartmentFilterButton": ".advanced-table-actions .dropdown-trigger-container",
+    "grantBudgetDepartmentFilterDropDown": ".dropdown-content-container .dropdown-item:nth-child(2) .dropdown-item-content",
+    "grantBudgetRowAction": ".grant-quarter-cell-renderer .action-button-container",
+    "grantBudgetAnount": ".grant-budget-input-wrapper input",
+    "grantBudgetSubmit": ".popup-footer .button-content",
+    "rowInBudget": ".advanced-table-container"
+}

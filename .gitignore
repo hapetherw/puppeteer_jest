@@ -1,0 +1,11 @@
+# IDE
+.idea/**/*
+
+# packages
+node_modules
+
+# environment
+.env
+
+# generated output
+screenshots

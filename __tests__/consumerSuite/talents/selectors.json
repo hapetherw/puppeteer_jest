@@ -1,0 +1,9 @@
+{
+    "tableRow": ".ag-center-cols-container > .ag-row.ag-row-level-0",
+    "arrowExpandButton": ":nth-child(1) .ag-react-container .group-expand-cell-renderer-toggle-button",
+    "expandButton": ".square-button-container",
+    "talentsDepartmentFilterButton": ".advanced-table-actions .dropdown-trigger-container",
+    "talentsDepartmentFilterDropDown": ".dropdown-content-container .dropdown-item",
+    "tabListContainer": ".tabs-container",
+    "downloadCSVButton": ".circle-button-container"
+}

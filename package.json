@@ -1,0 +1,27 @@
+{
+  "name": "integration-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StokeTalentExt/integration-tests.git"
+  },
+  "author": "naftali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StokeTalentExt/integration-tests/issues"
+  },
+  "homepage": "https://github.com/StokeTalentExt/integration-tests#readme",
+  "devDependencies": {
+    "winston": "^3.2.1",
+    "dotenv": "^8.2.0",
+    "jest": "^24.9.0",
+    "jest-environment-node": "^24.9.0",
+    "jest-puppeteer": "^4.3.0",
+    "puppeteer": "^2.0.0"
+  }
+}

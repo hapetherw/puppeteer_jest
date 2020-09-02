@@ -1,0 +1,12 @@
+{
+    "homePageManageBudgetNotificationListItem": "#budgetRequest .view-all-list-items-wrapper",
+    "homePageManageBudgetNotificationListItemButton": "#budgetRequest .view-all-list-items-wrapper .view-all-list-item",
+    "homePageFreelancersActionBox": "#talents-notification-card",
+    "homePageFreelancersActionBoxButton": "#talents-notification-card .button-container > .icon-container",
+    "homePageGrantBudgetActionBoxButton": "#grant-budget-action-box .action-button-container > .action-button",
+    "homePageGrantBudgetActionBox": "#grant-budget-action-box",
+    "homePageActiveJobsActionBox": "#jobs-notification-card",
+    "homePageActiveJobsActionBoxButton": "#jobs-notification-card .button-container > .icon-container",
+    "homePageNotificationBellButton": "[data-tip='Notifications']",
+    "homePageNotificationItem": ".notification-container.clickable"
+}

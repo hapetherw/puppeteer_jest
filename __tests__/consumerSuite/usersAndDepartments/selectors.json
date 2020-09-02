@@ -1,0 +1,8 @@
+{
+    "addManageDepartmentButton": ".page-header-container .action-button-container",
+    "addNewDepartmentButton": ".action-menu-items-container #new-job-action-menu-item-num-1",
+    "departmentNameInput": ".popup-content > section > main > section:nth-child(1) > div > div > input",
+    "costCenterInput": ".popup-content > section > main > section:nth-child(2) > div > div > input",
+    "NewDepartmentPopupAddButton": ".popup-content > section > footer button > div",
+    "departmentsUl": ".department-list-container > ul"
+}
